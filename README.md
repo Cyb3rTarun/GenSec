@@ -8,7 +8,12 @@ A Password Generation and Strength checking tool, which helps you to choose the 
 - <pre>outputs a password according the input length.</pre>
 - <pre>Displays the Strength of the Password. Whether it is [VERY WEAK], [WEAK], [MODERATE], [VERY GOOD].
 
-# Connect With Me
+
+# Disclaimer 😈
+- All the information on this profile are meant for developing Hacker Defense attitude among the users and help preventing the hack attacks. I insists that these information shall not be used for causing any kind of damage directly or indirectly. However you may try these codes on your own computer at your own risk.
+
+
+# Connect With Me :-
 
 - <a href="https://twitter.com/S_Tarun_" style="font-size:16px;">Twitter</a> 
 - <a href="https://www.linkedin.com/in/tarunvenom/" style="font-size:16px;">LinkedIn</a>
